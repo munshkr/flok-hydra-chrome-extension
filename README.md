@@ -1,5 +1,7 @@
 # flok-hydra-chrome-extension
 
+**Note: This extension is not needed anymore, it's safe to ignore.**
+
 Chrome extension for screen sharing with
 [Hydra](https://github.com/ojack/hydra) from
 [Flok](https://github.com/munshkr/flok)
@@ -7,7 +9,7 @@ Chrome extension for screen sharing with
 If you want to capture screen with Hydra inside a Flok session, you will need
 to install this extension.
 
-Read [here](https://github.com/ojack/hydra#desktop-capture) for more
+Read [here](https://github.com/ojack/hydra/tree/b75ef4b71ae7dda4ec13d30d01138149f7442ce6#desktop-capture) for more
 information.
 
 
